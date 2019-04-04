@@ -1,0 +1,5 @@
+D:\папка\ксис\3\chat\bin\Debug\chat.exe
+D:\папка\ксис\3\chat\bin\Debug\chat.pdb
+D:\папка\ксис\3\chat\obj\x86\Debug\chat.exe
+D:\папка\ксис\3\chat\obj\x86\Debug\chat.pdb
+D:\папка\ксис\3\chat\obj\x86\Debug\chat.csprojResolveAssemblyReference.cache
